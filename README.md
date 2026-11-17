@@ -13,3 +13,11 @@ project-root/
 ├── package.json         # Project metadata and dependencies
 └── README.md            # Project documentation
 ```
+
+# START: Lav Scrum Board/Issues
+- Lav et Scrum board i GitHub Project.
+- Lav kolonnerne: Product Backlog, Sprint Backlog, In progress, Review, Done.
+- Lav et Issue for hver opgave med acceptkriterier.
+- Assign Issues til den specificerede bruger.
+
+# next
