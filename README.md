@@ -2,12 +2,18 @@
 ```
 project-root/
 ├── src/
+│   ├── config/          # Håndterer database forbindelse
 │   ├── controllers/     # Håndterer server respons baseret på ruten
+│   ├── middleware/      # Validering af requests
 │   ├── models/          # Data objekter og kald til api
 │   ├── repositories/    # Håndterer data fra databasen
 │   ├── routes/          # Express routes
 │   ├── services/        # Håndterer logik og kald til api
-│   └── app.js           # Konfiguration af express app
+│   ├── utils/           # Kontrollerede fejl
+│   ├── validators/      # Validering
+│   ├── app.js           # Konfiguration af express app
+│   └── server.js        # Start server
+├── public/              # Simpel HTML/CSS/fetch
 ├── tests/               
 │   └── api/             # Endpoint test
 ├── package.json         # Project metadata and dependencies
