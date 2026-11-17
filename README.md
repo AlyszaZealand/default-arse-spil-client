@@ -26,4 +26,14 @@ project-root/
 - Lav et Issue for hver opgave med acceptkriterier.
 - Assign Issues til den specificerede bruger.
 
-# next
+# REST-endpoints
+
+## Eksempel i Postman
+
+# Ekstern API
+
+# Automatiseret test
+
+
+
+
