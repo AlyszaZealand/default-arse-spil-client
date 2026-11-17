@@ -69,8 +69,6 @@ Ved PUT kan du eksempelvis sende `{"isFavorite": true}` som JSON-body.
 
 **Forudsig svaret, før du trykker Send:** Hvad sker der ved ukendt gyldigt ID? Ved `abc` som ID? Ved manglende `name` i POST? Ved `firstAppearance: 100`? Ved et ukendt endpoint?
 
-## Eksempel i Postman
-
 # Ekstern API
 
 # Automatiseret test
